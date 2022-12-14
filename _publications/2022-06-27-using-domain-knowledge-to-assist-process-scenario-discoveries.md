@@ -6,5 +6,6 @@ excerpt: 'Third Author'
 date: 2022-06-27
 venue: '2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9842728'
+citation: 'Zhang, Zhu, J., Hildebrant, R., Venkatasubramanian, N., & Ren, S. (2022). Using Domain Knowledge to Assist Process Scenario Discoveries. In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 226–288). IEEE. https://doi.org/10.1109/COMPSAC54236.2022.00047'
 ---
 In this Research-In-Progress work, we present a potentially generalizable approach that can determine the sensitivity of an attribute or a set of attributes associated with an event in a given event log. This approach is based on the concept of an equivalence class that a given event or trace may form and associate its sensitivity with the size of its equivalence class. For a given event, different equivalent classes can be formed based on different attributes, the proposed approach provides researchers with a more granular tool to apply group based privacy to event logs.
