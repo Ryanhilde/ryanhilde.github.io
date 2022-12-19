@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Western Governors University, 2020 (3.4 GPA)
+* M.S. in Computer Science, San Diego State University, 2022 (3.92 GPA)
+* Ph.D in Computer Science, University of California, Irvine, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate student researcher, NSF IoTSity Project at UC Irvine
+  * 07/01/22 to 09/30/22 
+  * Worked with an undergraduate student 1-on-1 for to create a research project and poster related to smart sprinkler research
+* Graduate student researcher, San Diego State Research Foundation
+  * 11/01/21 to 08/01/22
+  * Duties included: Involved in Privacy-related research projects that resulted in 3 publications. Mentored 3 undergraduate students. 
+* Quality Control Manager, New Patient Machine
+  * 10/08/18 to 11/01/22
+  * Duties included: Overseeing Facebook and Google Ad creation for 30-40 unique clients. Work included using Facebook Ad Manager, Google Ad Suite, Database software and web development tools.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Digital Media & Communications, Paiste America, Inc.
+  * 04/05/15 to 10/05/18
+  * Duties included:  Worked with an internal team to create digital media content. Oversaw a network across four countries and handled system admin responsibilities.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Systems: Mac OS, Windows OS, Linux, Windows Server 2012
+* Databases: MySql, Oracle Suite
+* Languages: Python, Java, Scala
 
 Publications
 ======
@@ -42,11 +43,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Certifications and Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* SDSU Intro to Computer Programming Instructor - Fall 2021. Spring 2022
+* SDSU Artificial Intelligence Club Project Leader - Fall 2020
+* MSA 98-366 - Microsoft Networking Fundamentals Certification
+* PKO-004 - CompTIA Project +
+* CIW Site Development Associate
+* ITIL Foundations Certificate
+* 1Z0-071 - Oracle Database SQL Certification
+* Stanford Machine Learning Certification – Coursera
   
 Teaching
 ======
@@ -54,6 +60,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Achievements
 ======
-* Currently signed in to 43 different slack teams
+* First in my immediate family to finish their undergraduate degree. 
+* Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker. I gave an
+hour and a half talk to an audience of 100 Becton Dickinson employees about applications of privacy.
