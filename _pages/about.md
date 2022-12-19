@@ -39,12 +39,16 @@ Highlighted Projects
 
 Graduate Classes
 ======
-Fall 2022: Computer and Communication Networks (UCI)
-
-Spring 2022: Theory of Parallel Algorithms (SDSU)
-
-Fall 2021: Advanced Object-Oriented Programming and Design Patterns, Algorithm Analysis and Design (SDSU)
-
-Spring 2021: Big Data Tools & Methods, Data Mining & Knowledge (SDSU)
-
-Fall 2020: Artificial Intelligence, Machine Learning 
+* Fall 2022, UCI 
+  * Computer and Communication Networks
+* Spring 2022, SDSU
+  * Theory of Parallel Algorithms
+* Fall 2021, SDSU
+  * Advanced Object-Oriented Programming and Design Patterns
+  * Algorithm Analysis and Design
+* Spring 2021, SDSU
+  * Big Data Tools & Methods
+  * Data Mining & Knowledge
+* Fall 2020, SDSU
+  * Artificial Intelligence
+  * Machine Learning
