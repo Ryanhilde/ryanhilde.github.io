@@ -45,8 +45,7 @@ Publications
   
 Certifications and Activities
 ======
-* SDSU Intro to Computer Programming Instructor - Fall 2021. Spring 2022
-* SDSU Artificial Intelligence Club Project Leader - Fall 2020
+* SDSU Artificial Intelligence Club Project Leader (Fall 2020)
 * MSA 98-366 - Microsoft Networking Fundamentals Certification
 * PKO-004 - CompTIA Project +
 * CIW Site Development Associate
