@@ -61,6 +61,6 @@ Teaching
   
 Achievements
 ======
-* First in my immediate family to finish their undergraduate degree. 
+* First in my immediate family to finish an undergraduate and graduate degree. 
 * Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker. I gave an
 hour and a half talk to an audience of 100 Becton Dickinson employees about applications of privacy.
