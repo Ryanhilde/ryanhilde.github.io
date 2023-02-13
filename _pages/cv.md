@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Western Governors University, 2020 
 * M.S. in Computer Science, San Diego State University, 2022 
-* Ph.D in Computer Science, University of California, Irvine (current)
+* Ph.D in Computer Science, University of California, Irvine (In-Progress)
 
 Work experience
 ======
