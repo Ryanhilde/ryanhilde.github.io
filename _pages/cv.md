@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Western Governors University, 2020 (3.4 GPA)
-* M.S. in Computer Science, San Diego State University, 2022 (3.92 GPA)
-* Ph.D in Computer Science, University of California, Irvine, 2027 (expected)
+* B.S. in Computer Science, Western Governors University, 2020 
+* M.S. in Computer Science, San Diego State University, 2022 
+* Ph.D in Computer Science, University of California, Irvine (current)
 
 Work experience
 ======
 * Graduate student researcher, NSF IoTSity Project at UC Irvine
   * 07/01/22 to 09/30/22 
-  * Worked with an undergraduate student 1-on-1 for to create a research project and poster related to smart sprinkler research
+  * Worked with an undergraduate student to create a research project and poster related to smart sprinkler research.
 * Graduate student researcher, San Diego State Research Foundation
   * 11/01/21 to 08/01/22
   * Duties included: Involved in Privacy-related research projects that resulted in 3 publications. Mentored 3 undergraduate students. 
 * Quality Control Manager, New Patient Machine
   * 10/08/18 to 11/01/22
-  * Duties included: Overseeing Facebook and Google Ad creation for 30-40 unique clients. Work included using Facebook Ad Manager, Google Ad Suite, Database software and web development tools.
+  * Duties included: Overseeing Facebook and Google Ad creation for 40 clients. Work included using Facebook Ad Manager, Google Ad Suite, Database software and web development tools.
 
 * Digital Media & Communications, Paiste America, Inc.
   * 04/05/15 to 10/05/18
@@ -35,7 +35,7 @@ Skills
 ======
 * Systems: Mac OS, Windows OS, Linux, Windows Server 2012
 * Databases: MySql, Oracle Suite
-* Languages: Python, Java, Scala
+* Languages: Python, Java
 
 Publications
 ======
@@ -45,6 +45,7 @@ Publications
   
 Certifications and Activities
 ======
+* Incoming UCI DECADE Representative 
 * SDSU Artificial Intelligence Club Project Leader (Fall 2020)
 * MSA 98-366 - Microsoft Networking Fundamentals Certification
 * PKO-004 - CompTIA Project +

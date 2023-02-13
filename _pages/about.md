@@ -39,6 +39,8 @@ Highlighted Projects
 
 Graduate Classes
 ======
+* Winter 2023, UCI
+  * Distributed Computing
 * Fall 2022, UCI 
   * Computer and Communication Networks
 * Spring 2022, SDSU
