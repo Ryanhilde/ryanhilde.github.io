@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interest
-======
-* Data Privacy
-* Internet of Things
-* Differential Privacy
-* Workflows
-
 Education
 ======
 * B.S. in Computer Science, Western Governors University, 2020 
 * M.S. in Computer Science, San Diego State University, 2022 
 * Ph.D in Computer Science, University of California, Irvine (In-Progress)
+
+Research Interests
+======
+* Data Privacy
+* Internet of Things
+* Differential Privacy
+* Workflows
 
 Research experience
 ======
