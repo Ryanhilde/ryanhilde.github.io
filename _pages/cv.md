@@ -11,7 +11,10 @@ redirect_from:
 
 Research Interest
 ======
-
+* Data Privacy
+* Internet of Things
+* Differential Privacy
+* Workflows
 
 Education
 ======
