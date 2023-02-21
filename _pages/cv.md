@@ -32,7 +32,7 @@ Research experience
   
 * Data privacy and Process Mining researcher in the ICIP lab at SDSU.
   * Investigated and built tools for generalizable privacy schemes within workflows and created the [PMDG anonymization framework](https://https://github.com/Ryanhilde/PMDG_Framework).
-  * Assisted in research [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
+  * Conducted [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
   * Process mining researcher exploring privacy, anomalies and, filtering of event logs (see publications).
 
 Work experience
