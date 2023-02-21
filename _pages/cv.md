@@ -30,7 +30,7 @@ Research experience
   * Working with smart sprinkler company to develop a recommendation system for irrigation usage
   * Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments
   
-* Data privacy and Process Mining researcher in the Integrating Cyber Innovations with the Physical World lab at SDSU.
+* Data privacy and Process Mining researcher in the ICIP lab at SDSU.
   * Investigated and built tools for generalizable privacy schemes within workflows and created the [PMDG anonymization framework](https://https://github.com/Ryanhilde/PMDG_Framework).
   * Assisted in research [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
   * Process mining researcher exploring privacy, anomalies and, filtering of event logs (see publications).
@@ -48,7 +48,7 @@ Work experience
   
 Projects
 ======
-* Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments (details to come)
+* Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments
 
 * [Python Data Structures and Algorithms repo](https://github.com/Ryanhilde/DS_and_Algs)
 
