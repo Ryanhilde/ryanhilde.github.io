@@ -75,13 +75,13 @@ Applying Homomorphic Encryption to Meter Readings based on user-policy to metere
 [Master's Thesis: PACE (Preventing Attacks on Case Identities in event logs through data generalization)](https://github.com/Ryanhilde/PACE_Framework) (May 2022).
 * Repo for my Master's Thesis work that applies K-anonymity to organizational attributes in an event log using generalization and hierarchical trees.
 
-[Detecting Pokemon Types Using a Variety of Data Mining and Machine Learning Techniques](https://github.com/Ryanhilde/sdsu_data_mining_project) (April 2021)
+[Detecting Pokemon Types Using a Variety of Data Mining and Machine Learning Techniques](https://github.com/Ryanhilde/sdsu_data_mining_project) (April 2021).
 * A measurement study on the precision, recall, and F1-score of various machine learning methods using the [Pokemon dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) on kaggle to predict a Pokemon's type. Techniques include a neural network, support vector machine, KNN-model, Naive Bayes, and Decision Tree Classifier.
 
-[Maze Builder and Solver using various graph traversal methods](https://github.com/Ryanhilde/AI_Club_Maze_Builder) (December 2020)
+[Maze Builder and Solver using various graph traversal methods](https://github.com/Ryanhilde/AI_Club_Maze_Builder) (December 2020).
 * This project was built for the San Diego State University's Artificial Intelligence club during the Fall semester of 2020. I lead a team of two undergraduates to build a maze generation application using different search traversal techniques.
 
-[Bachelor's Capstone: Differential Privacy Engine (DP using randomized response)](https://github.com/Ryanhilde/WGU-C964-Capstone) (May 2020).
+[Bachelor's Capstone: Differential Privacy Engine](https://github.com/Ryanhilde/WGU-C964-Capstone) (May 2020).
 * A GUI Python implementation of random-response differential privacy where a user can input a dataset and specify sensitive attributes.
 
 Skills
@@ -100,37 +100,37 @@ Certifications and Activities
 ======
 University of California, Irvine DECADE Representative (January 2023)
 
-San Diego State University Dean's List (August 2020 - May 2022)
-
 San Diego State University Student Lecturer (August 2021 - August 2022)
 
-SDSU Artificial Intelligence Club Project Leader (August 2020)
+San Diego State University Artificial Intelligence Club Project Leader (August 2020)
 
 Stanford Machine Learning Certification – Coursera (July 2020)
 
-1Z0-071 - Oracle Database SQL Certification (May 2020)
+Oracle Database SQL Certification - 1Z0-071 (May 2020)
 
-PKO-004 - CompTIA Project + (February 2019)
+CompTIA Project + - PKO-004 (February 2019)
 
 CIW Site Development Associate (January 2019)
 
 ITIL Foundations Certificate (September 2018)
 
-MSA 98-366 - Microsoft Networking Fundamentals Certification (May 2017)
+Microsoft Networking Fundamentals Certification - MSA 98-366 (May 2017)
 
+Achievements
+======
+First in my immediate family to finish an undergraduate and graduate degree. 
 
-  
+University of California, Irvine Dean's Award Scholarship (2022).
+
+San Diego State University Dean's List (August 2020 - May 2022).
+
+Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker.
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Achievements
-======
-First in my immediate family to finish an undergraduate and graduate degree. 
-
-Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker.
 
 Publications
 ======
