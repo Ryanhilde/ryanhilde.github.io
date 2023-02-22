@@ -18,10 +18,11 @@ Ph.D. in Computer Science, University of California, Irvine
 M.S. in Computer Science, San Diego State University 
 * August, 2020 - August, 2022
 * Advisor: Prof. [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html)
+* Thesis: PACE (Preventing Attacks on Case Identities in event logs through data generalization)
 
 B.S. in Computer Science, Western Governors University
 * August, 2018 - May, 2020
-
+* Capstone: Differential Privacy Engine using randomized response
 
 Research Interests
 ======
