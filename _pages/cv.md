@@ -32,7 +32,7 @@ Internet of Things
 
 Process Mining 
 
-Research experience
+Research Experience
 ======
 Graduate Student Researcher with a focus on Data Privacy in the [Distributed Systems and Middleware group](https://www.ics.uci.edu/~dsm/members.html) at the University of California, Irvine (2022 - Present).
   * Member of the NSF-funded [Smart WAter Data Exchange (SWADE) project](https://sites.uci.edu/swade/).
@@ -48,7 +48,7 @@ Graduate Student Researcher with a focus on Privacy in Process Mining in the [In
   * Conducted experiments for anomaly detection in mainstream process behavior using clustering techniques.
   * Created synthetic event logs for experiments for filtering mainstream behavior of event logs.
 
-Work experience
+Work Experience
 ======
 Quality Control Manager, New Patient Machine (October 2018 - November 2022)
   * Oversaw and Managed the creation of Facebook and Google Ad campaigns for 40 clients.
