@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of California, Irvine
-  * August, 2022 - Present
-  * Advisor: Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/)
+Ph.D. in Computer Science, University of California, Irvine
+* August, 2022 - Present
+* Advisor: Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/)
 
-* M.S. in Computer Science, San Diego State University 
-  * August, 2020 - August, 2022
-  * Advisor: Prof. [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html)
-  
-* B.S. in Computer Science, Western Governors University
-  * August, 2018 - May, 2020
+M.S. in Computer Science, San Diego State University 
+* August, 2020 - August, 2022
+* Advisor: Prof. [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html)
+
+B.S. in Computer Science, Western Governors University
+* August, 2018 - May, 2020
 
 
 Research Interests
 ======
-* Data Privacy
-* Internet of Things
-* Process Mining 
+Data Privacy 
+Internet of Things
+Process Mining 
 
 Research experience
 ======
@@ -50,13 +50,13 @@ Research experience
 
 Work experience
 ======
+2018-2022
 * Quality Control Manager, New Patient Machine
-  * 10/08/18 to 11/01/22
   * Oversaw and Managed the creation of Facebook and Google Ad campaigns for 40 clients.
   * Used Facebook Ad Manager and Google Ad Suite to create customized ad campaigns based on clients specifications. Campaigns included creating multiple webpages, incorporating unique targeting strategies, managing and creating APIs to pull collected data, database access, and automation.
 
+2016-2018
 * Digital Media & Communications, Paiste America, Inc.
-  * 04/05/16 to 10/05/18
   * Worked with an internal team to create digital media content. Oversaw a network across three countries and handled system admin responsibilities.
   * Created and published digital content that received millions of views. 
   
@@ -90,16 +90,25 @@ Skills
   
 Certifications and Activities
 ======
-* University of California, Irvine DECADE Representative (January 2023)
-* San Diego State University Dean's List (August 2020 - May 2022)
-* San Diego State University Student Lecturer (August 2021 - August 2022)
-* SDSU Artificial Intelligence Club Project Leader (August 2020)
-* Stanford Machine Learning Certification – Coursera (July 2020)
-* 1Z0-071 - Oracle Database SQL Certification (May 2020)
-* PKO-004 - CompTIA Project + (February 2019)
-* CIW Site Development Associate (January 2019)
-* ITIL Foundations Certificate (September 2018)
-* MSA 98-366 - Microsoft Networking Fundamentals Certification (May 2017)
+University of California, Irvine DECADE Representative (January 2023)
+
+San Diego State University Dean's List (August 2020 - May 2022)
+
+San Diego State University Student Lecturer (August 2021 - August 2022)
+
+SDSU Artificial Intelligence Club Project Leader (August 2020)
+
+Stanford Machine Learning Certification – Coursera (July 2020)
+
+1Z0-071 - Oracle Database SQL Certification (May 2020)
+
+PKO-004 - CompTIA Project + (February 2019)
+
+CIW Site Development Associate (January 2019)
+
+ITIL Foundations Certificate (September 2018)
+
+MSA 98-366 - Microsoft Networking Fundamentals Certification (May 2017)
 
 
   
@@ -111,8 +120,9 @@ Teaching
   
 Achievements
 ======
-* First in my immediate family to finish an undergraduate and graduate degree. 
-* Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker.
+First in my immediate family to finish an undergraduate and graduate degree. 
+
+Participated in Becton Dickinson’s 2021 summer Lunch & Learn program as a guest speaker.
 
 Publications
 ======
