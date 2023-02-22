@@ -46,7 +46,7 @@ Research experience
   * Conducted [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
   * Process mining researcher exploring privacy, anomalies and, filtering of event logs.
     * Developed a framework for generalizing attribute values based on semantic properties within organization workflows and measured the results using various unsupervised machine learning techniques.
-    * Conducted experiments for anomaly detection in mainstream process behavior using various clustering techniques.
+    * Conducted experiments for anomaly detection in mainstream process behavior using clustering techniques.
     * Conducted experiments for filtering mainstream behavior of event logs.
 
 Work experience
