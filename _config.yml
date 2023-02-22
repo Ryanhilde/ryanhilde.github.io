@@ -83,7 +83,7 @@ author:
   name             : "Ryan Hildebrant"
   avatar           : "profile.png"
   bio              : "First year Ph.D. Student in Computer Science at the University of California, Irvine."
-  location         : "Irvine, CA"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZTE8LIsAAAAJ&hl=en&oi=ao"
