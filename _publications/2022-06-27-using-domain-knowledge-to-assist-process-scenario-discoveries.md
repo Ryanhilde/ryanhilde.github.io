@@ -2,7 +2,6 @@
 title: "Using Domain Knowledge to Assist Process Scenario Discoveries"
 collection: publications
 permalink: /publication/2022-06-27-using-domain-knowledge-to-assist-process-scenario-discoveries
-excerpt: 'Third Author'
 date: 2022-06-27
 venue: '2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9842728'
