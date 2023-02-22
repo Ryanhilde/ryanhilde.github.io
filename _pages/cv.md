@@ -11,48 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Western Governors University, 2020 
-* M.S. in Computer Science, San Diego State University, 2022 
-* Ph.D in Computer Science, University of California, Irvine (In-Progress)
+* Ph.D. in Computer Science, University of California, Irvine
+  * August, 2022 - Present
+  * Advisor: Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/)
+
+* M.S. in Computer Science, San Diego State University 
+  * August, 2020 - August, 2022
+  * Advisor: Prof. [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html)
+  
+* B.S. in Computer Science, Western Governors University
+  * August, 2018 - May, 2020
+
 
 Research Interests
 ======
 * Data Privacy
 * Internet of Things
-* Differential Privacy
-* Workflows
+* Process Mining 
 
 Research experience
 ======
-* Data privacy researcher in the Distributed Systems and Middleware group at UC Irvine
-  * Investigating composition of privacy techniques in smart meter and infrastructure systems
-  * Member of the NSF-funded Smart WAter Data Exchange (SWADE) project looking at privacy issues in water infrastructure
-  * Working with smart sprinkler company to develop a recommendation system for irrigation usage
-  * Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments
+2022 - Present
+* Graduate Student Researcher with a focus on Data Privacy in the [Distributed Systems and Middleware group](https://www.ics.uci.edu/~dsm/members.html) at the University of California, Irvine.
+  * Member of the NSF-funded [Smart WAter Data Exchange (SWADE) project](https://sites.uci.edu/swade/).
+    * Focused on privacy issues in water infrastructure.
+  * Investigating composition of privacy techniques in smart meter and infrastructure systems.
+  * Working with a smart sprinkler company to develop a recommendation system for irrigation usage.
+  * Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments.
   
-* Data privacy and Process Mining researcher in the ICIP lab at SDSU.
-  * Investigated generalizable privacy schemes within workflows and created the [PMDG anonymization framework](https://https://github.com/Ryanhilde/PMDG_Framework).
+2020 - 2022
+* Data privacy and Process Mining researcher in the [Integrating Cyber Innovations within the Physical World lab](https://icip.sdsu.edu/) at San Diego State University.
+  * Investigated generalizable privacy schemes within workflows and created the [PMDG: Privacy for Multi-perspective Process Mining through Data Generalization framework](https://github.com/Ryanhilde/PMDG_Framework).
   * Conducted [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
-  * Process mining researcher exploring privacy, anomalies and, filtering of event logs (see publications).
+  * Process mining researcher exploring privacy, anomalies and, filtering of event logs.
+    * Developed a framework for generalizing attribute values based on semantic properties within organization workflows and measured the results using various unsupervised machine learning techniques.
+    * Conducted experiments for anomaly detection in mainstream process behavior using various clustering techniques.
+    * Conducted experiments for filtering mainstream behavior of event logs.
 
 Work experience
 ======
 * Quality Control Manager, New Patient Machine
   * 10/08/18 to 11/01/22
-  * Duties: Oversaw and Managed the creation of Facebook and Google Ad campaigns for 40 clients.
-  * Tools: Facebook Ad Manager, Google Ad Suite, Database software and web development tools.
+  * Oversaw and Managed the creation of Facebook and Google Ad campaigns for 40 clients.
+  * Used Facebook Ad Manager and Google Ad Suite to create customized ad campaigns based on clients specifications. Campaigns included creating multiple webpages, incorporating unique targeting strategies, managing and creating APIs to pull collected data, database access, and automation.
 
 * Digital Media & Communications, Paiste America, Inc.
-  * 04/05/15 to 10/05/18
-  * Duties:  Worked with an internal team to create digital media content. Oversaw a network across three countries and handled system admin responsibilities.
+  * 04/05/16 to 10/05/18
+  * Worked with an internal team to create digital media content. Oversaw a network across three countries and handled system admin responsibilities.
+  * Created and published digital content that received millions of views. 
   
 Projects
 ======
-* Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments
+* Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments.
 
-* [Python Data Structures and Algorithms repo](https://github.com/Ryanhilde/DS_and_Algs)
+* [Python Data Structures and Algorithms repo](https://github.com/Ryanhilde/DS_and_Algs).
 
-* [Experiments and Implementation of 'Towards Better Bounds for Finding Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover/tree/main)
+* [Experiments and Implementation of 'Towards Better Bounds for Finding Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover/tree/main).
 
 * [Privacy for multi-perspective Process Mining through data generalization](https://github.com/Ryanhilde/PMDG_Framework)
 
@@ -67,23 +81,27 @@ Projects
 
 Skills
 ======
-* Systems: Mac OS, Windows OS, Linux, Windows Server 2012
-* Databases: MySql, Oracle Suite
+* Systems: Windows Server Suite
+* Databases: Oracle Suite, Google Big Query
 * Tools: Jupyter Notebook, Vim, AWS, Google Cloud
-* Languages: Python, Java, Latex
+* Languages: Python, Java, Scala, C++, Latex
 
 
   
 Certifications and Activities
 ======
-* UCI DECADE Representative 
-* SDSU Artificial Intelligence Club Project Leader (Fall 2020)
-* MSA 98-366 - Microsoft Networking Fundamentals Certification
-* PKO-004 - CompTIA Project +
-* CIW Site Development Associate
-* ITIL Foundations Certificate
-* 1Z0-071 - Oracle Database SQL Certification
-* Stanford Machine Learning Certification – Coursera
+* University of California, Irvine DECADE Representative (January 2023)
+* San Diego State University Dean's List (August 2020 - May 2022)
+* San Diego State University Student Lecturer (August 2021 - August 2022)
+* SDSU Artificial Intelligence Club Project Leader (August 2020)
+* Stanford Machine Learning Certification – Coursera (July 2020)
+* 1Z0-071 - Oracle Database SQL Certification (May 2020)
+* PKO-004 - CompTIA Project + (February 2019)
+* CIW Site Development Associate (January 2019)
+* ITIL Foundations Certificate (September 2018)
+* MSA 98-366 - Microsoft Networking Fundamentals Certification (May 2017)
+
+
   
 Teaching
 ======
