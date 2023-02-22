@@ -82,10 +82,13 @@ Projects
 
 Skills
 ======
-* Systems: Windows Server Suite
-* Databases: Oracle Suite, Google Big Query
-* Tools: Jupyter Notebook, Vim, AWS, Google Cloud
-* Languages: Python, Java, Scala, C++, Latex
+Systems: Windows Server Suite
+
+Databases: Oracle Suite, Google Big Query
+
+Tools: Jupyter Notebook, Vim, AWS, Google Cloud
+
+Languages: Python, Java, Scala, C++, Latex
 
 
   
