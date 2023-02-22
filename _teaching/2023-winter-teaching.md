@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Programming in Python"
+title: "Intermediate Programming in Python at University of California, Irvine - Winter 2023"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-winter-teaching

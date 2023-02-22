@@ -1,5 +1,5 @@
 ---
-title: "Graduate Operating Systems - TA"
+title: "Graduate Operating Systems at University of California, Irvine - Fall 2022"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2022-fall-teaching

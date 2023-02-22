@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Computer Programming Lab"
+title: "Intermediate Computer Programming Lab at San Diego State University - Summer 2022" 
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching

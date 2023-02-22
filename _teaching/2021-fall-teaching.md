@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Computer Programming"
+title: "Introduction to Computer Programming at San Diego State University - Fall 2021"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching
