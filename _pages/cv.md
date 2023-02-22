@@ -18,15 +18,19 @@ Ph.D. in Computer Science, University of California, Irvine
 M.S. in Computer Science, San Diego State University 
 * August 2020 - August 2022
 * Advisor: Prof. [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html)
-* Thesis: PACE: Preventing Attacks on Case Identities in event logs through data generalization
+* Thesis: PACE: Preventing Attacks on Case Identities in Event Logs Through Data Generalization
 
 B.S. in Computer Science, Western Governors University
 * August, 2018 - May, 2020
-* Capstone: Differential Privacy Engine using randomized response
+* Capstone: Differential Privacy Engine using Randomized Response
 
 Research Interests
 ======
 Data Privacy 
+
+Distributed Systems
+
+Middleware
 
 Internet of Things
 
@@ -34,14 +38,14 @@ Process Mining
 
 Research Experience
 ======
-Graduate Student Researcher with a focus on Data Privacy in the [Distributed Systems and Middleware group](https://www.ics.uci.edu/~dsm/members.html) at the University of California, Irvine (2022 - Present).
+Graduate Student Researcher with a focus on Data Privacy in the [Distributed Systems and Middleware group](https://www.ics.uci.edu/~dsm/members.html) at the University of California, Irvine (2022 - Present)
   * Member of the NSF-funded [Smart WAter Data Exchange (SWADE) project](https://sites.uci.edu/swade/).
     * Focused on privacy issues in water infrastructure.
   * Investigating composition of privacy techniques in smart meter and infrastructure systems.
   * Working with a smart sprinkler company to develop a recommendation system for irrigation usage.
   * Applying Homomorphic Encryption to Meter Readings based on user-policy to metered environments.
   
-Graduate Student Researcher with a focus on Privacy in Process Mining in the [Integrating Cyber Innovations within the Physical World lab](https://icip.sdsu.edu/) at San Diego State University.
+Graduate Student Researcher with a focus on Privacy in Process Mining in the [Integrating Cyber Innovations within the Physical World lab](https://icip.sdsu.edu/) at San Diego State University
   * Investigated generalizable privacy schemes within workflows and created the [PMDG: Privacy for Multi-perspective Process Mining through Data Generalization framework](https://github.com/Ryanhilde/PMDG_Framework).
   * Conducted [experiments for finding better bounds of Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover) in the [K-Anonymity selection problem](https://arxiv.org/abs/2211.13882).
   * Developed a framework for generalizing attribute values based on semantic properties within organization workflows and measured the results using various unsupervised machine learning techniques.
@@ -69,16 +73,16 @@ Applying Homomorphic Encryption to Meter Readings based on user-policy to metere
 [Experiments and Implementation of 'Towards Better Bounds for Finding Quasi-Identifiers](https://github.com/Ryanhilde/min_set_cover/tree/main) (November 2022).
 * Experiments across three large datasets to verify and show the accuracy of improved bounds for the NP-Hard problem of selecting optimal attributes for k-anonymity. Paper is in publication review.
 
-[Privacy for multi-perspective Process Mining through data generalization](https://github.com/Ryanhilde/PMDG_Framework) (November 2022).
+[Privacy for multi-perspective Process Mining through Data Generalization](https://github.com/Ryanhilde/PMDG_Framework) (November 2022).
 * Framework for applying K-anonymity to organizational attributes in an event log using generalization and hierarchical trees. The code is applied to two event logs and performance metrics are detailed for machine learning experiments using decision trees and handover graphs.
 
-[Master's Thesis: PACE (Preventing Attacks on Case Identities in event logs through data generalization)](https://github.com/Ryanhilde/PACE_Framework) (May 2022).
+[Master's Thesis: PACE: Preventing Attacks on Case Identities in Event Logs through Data Generalization](https://github.com/Ryanhilde/PACE_Framework) (May 2022).
 * Repo for my Master's Thesis work that applies K-anonymity to organizational attributes in an event log using generalization and hierarchical trees.
 
 [Detecting Pokemon Types Using a Variety of Data Mining and Machine Learning Techniques](https://github.com/Ryanhilde/sdsu_data_mining_project) (April 2021).
 * A measurement study on the precision, recall, and F1-score of various machine learning methods using the [Pokemon dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) on kaggle to predict a Pokemon's type. Techniques include a neural network, support vector machine, KNN-model, Naive Bayes, and Decision Tree Classifier.
 
-[Maze Builder and Solver using various graph traversal methods](https://github.com/Ryanhilde/AI_Club_Maze_Builder) (December 2020).
+[Maze Builder and Solver using Various Graph Traversal Methods](https://github.com/Ryanhilde/AI_Club_Maze_Builder) (December 2020).
 * This project was built for the San Diego State University's Artificial Intelligence club during the Fall semester of 2020. I lead a team of two undergraduates to build a maze generation application using different search traversal techniques.
 
 [Bachelor's Capstone: Differential Privacy Engine](https://github.com/Ryanhilde/WGU-C964-Capstone) (May 2020).
